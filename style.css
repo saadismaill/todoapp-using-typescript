@@ -1,0 +1,13 @@
+body {
+  background-color: #bac8e0; /* Bootstrap ka background change yahaan say hoga */
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 50px;
+}
+
+.container {
+  max-width: 800px;
+}

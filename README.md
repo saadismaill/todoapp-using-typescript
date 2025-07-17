@@ -16,10 +16,5 @@ This is a simple Todo application built with **HTML**, **Bootstrap**, **JavaScri
 - JavaScript (ES6)
 - TypeScript
 
-## Getting Started
-
-To run this project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/saadismaill/todoapp-using-typescript.git
+## Link for view in browser
+https://todoappusingtypescriptbysaadismail.netlify.app/
